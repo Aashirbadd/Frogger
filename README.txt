@@ -1,5 +1,4 @@
-Aashirbad Dhital - 30092107
-Mikail Munir - 30086727
+Developers: Aashirbad Dhital, Mikail Munir
 
 To run the program, navigate to the directory on your computer to which the files are saved, through the terminal. Then, run command "make clean", then "make", and finally "./myProg".
 

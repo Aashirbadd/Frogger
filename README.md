@@ -10,3 +10,5 @@ Once the player reaches the top of the screen, a congratulatory message will be 
 
 At any point during the game, the player can pause using the start button, and use the pause menu to either restart the game, or to exit the game and go back to the main menu. To go back to playing, they can simply press start again.  
 
+**Start Screen**
+![Frogger (3)](https://user-images.githubusercontent.com/60020431/179901945-e4dc4748-4ea9-4aaf-ab41-658f15318d15.png)

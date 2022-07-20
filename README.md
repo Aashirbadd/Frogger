@@ -1,8 +1,10 @@
-Developers: Aashirbad Dhital, Mikail Munir
+Welcome to **Frogger**, A game developed on C, that works with a SNES controller!
 
 
 **Start Screen**
 ![Frogger (3)](https://user-images.githubusercontent.com/60020431/179901945-e4dc4748-4ea9-4aaf-ab41-658f15318d15.png)
+
+Developers: Aashirbad Dhital, Mikail Munir
 
 To run the program, navigate to the directory on your computer to which the files are saved, through the terminal. Then, run command "make clean", then "make", and finally "./myProg".
 

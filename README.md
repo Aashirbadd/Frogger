@@ -9,3 +9,4 @@ Upon starting the game, the player will be at the bottom of the screen, with the
 Once the player reaches the top of the screen, a congratulatory message will be printed out in the terminal, the game will restart, and go back to the main menu. If the player loses the game (runs out of lives, time, moves) then there will be a message printed in the terminal informing them of this loss, and the game will be reset and go back to the start menu.
 
 At any point during the game, the player can pause using the start button, and use the pause menu to either restart the game, or to exit the game and go back to the main menu. To go back to playing, they can simply press start again.  
+
